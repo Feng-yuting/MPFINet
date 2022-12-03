@@ -1,4 +1,6 @@
 # MPFINet
+More details about the network, you may check the following paper: And the code will update soon.
+
 @Article{rs14236118,
 AUTHOR = {Feng, Yuting and Jin, Xin and Jiang, Qian and Wang, Quanli and Liu, Lin and Yao, Shaowen},
 TITLE = {MPFINet: A Multilevel Parallel Feature Injection Network for Panchromatic and Multispectral Image Fusion},
